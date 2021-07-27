@@ -15,5 +15,5 @@ c) Cuántas unidades de HDD hay en total.*/
 
 function mostrar()
 {
-	alert("uno");
+	alert("santi");
 }
